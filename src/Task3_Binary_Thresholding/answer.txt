@@ -1,0 +1,5 @@
+Original pixel value: 180
+Threshold: 150
+Since 180 > 150, output pixel value = 255 (binary thresholding)
+
+Final answer: 255
